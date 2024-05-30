@@ -1,5 +1,5 @@
 # ECPRMML
-This is a a UGPIG method for sustainable development pattern recommendation.
+This is a a ECPRMML method for Ecological Civilization Pattern recommendation.
 # Dataset
 The kg_final.txt file represents the region knowledge Graph.  
 train.txt and test.txt are obtained by dividing the interaction matrix.
