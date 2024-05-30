@@ -1,11 +1,11 @@
 # ECPRMML
 This is a a ECPRMML method for Ecological Civilization Pattern recommendation.
 # Dataset
-The kg_final.txt file represents the region knowledge Graph.  
-train.txt and test.txt are obtained by dividing the interaction matrix.
-list_picture.npy represents features extracted from the real image
-list_picture_gpt.npy represents the features extracted from the generated image.
-list_text.npy the features extracted from the generated text
+The kg_final.txt file represents the region knowledge Graph.  <br>
+train.txt and test.txt are obtained by dividing the interaction matrix.<br>
+list_picture.npy represents features extracted from the real image<br>
+list_picture_gpt.npy represents the features extracted from the generated image.<br>
+list_text.npy the features extracted from the generated text<br>
 
 # Requirements
 The following environments is needed:
